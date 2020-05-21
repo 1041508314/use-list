@@ -8,7 +8,7 @@ import java.util.List;
  * @Content:
  */
 public class Triangle {
-    public List<List<Integer>> func(int numRows){
+    public static List<List<Integer>> func(int numRows){
         List<List<Integer>>ret = new ArrayList<>();
         if(numRows == 0){
             return ret;
@@ -37,6 +37,12 @@ public class Triangle {
     }
 
     public static void main(String[] args) {
-        
+        List<List<Integer>> lists = func(3);
+        for (List<Integer> tmp:lists) {
+//            for (Integer a:tmp) {
+//                System.out.println(a);
+//            }
+            System.out.println(tmp);
+        }
     }
 }
