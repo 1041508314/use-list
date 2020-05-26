@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6214b971-984e-421a-af9a-17f44593c38a" name="Default Changelist" comment="" />
+    <list default="true" id="6214b971-984e-421a-af9a-17f44593c38a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../person-management" />
   </component>
   <component name="RunManager" selected="Application.Triangle">
     <configuration name="Poker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -92,6 +94,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1589877539190" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1590471777483">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1590471777483" />
     <state width="1306" height="130" key="GridCell.Tab.0.bottom" timestamp="1590040040597">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -108,10 +114,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1306" height="130" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1590040040597" />
-    <state x="363" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1590040126304">
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1590471689209">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="363" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1590040126304" />
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1590471689209" />
     <state x="57" y="0" key="new project wizard" timestamp="1590040181102">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
